@@ -6,4 +6,5 @@ public class Customer extends User{
     public UserType getUserType(){
         return UserType.CUSTOMER;
     }
+
 }
